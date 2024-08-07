@@ -42,7 +42,7 @@ testing
 - Add more customization options in the config.
 
 ## Credits
-- Developed by [Your Name / Team].
+- Developed by Rebel Deveopement].
 - Special thanks to the QB-Core and FiveM communities.
 
 ## License
