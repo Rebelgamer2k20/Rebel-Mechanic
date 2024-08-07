@@ -1,7 +1,7 @@
 # Rebel-Mechanic
 mechanic script for qbcore
 # Rebel Mechanic Script
-testing
+
 
 ## Description
 `Rebel_mechanic` is a comprehensive mechanic script for the QB-Core framework that adds vehicle modifications, lift interactions, an oil change system, car key management, and society account integration.
